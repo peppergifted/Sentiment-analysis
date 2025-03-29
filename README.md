@@ -1,5 +1,5 @@
 # Sentiment Analysis and Embedding Models
-
+本项目为本人学习情感分析时的jupyter笔记本
 本仓库包含多种与情感分析（Sentiment Analysis）相关的模型和方法，旨在帮助理解和应用自然语言处理（NLP）中的情感分析技术。项目的主要功能包括：
 
 1. **情感分析模型（PyABSA）**
